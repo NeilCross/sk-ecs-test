@@ -16,7 +16,7 @@ LinqStepper Step took 4.9402ms
 ```
 
 ## Preview
-![Preview](Docs\sk_grab.gif)
+![Preview](/Docs/sk_grab.gif)
 
 ### References:
 * Arch ECS - https://github.com/genaray/Arch
